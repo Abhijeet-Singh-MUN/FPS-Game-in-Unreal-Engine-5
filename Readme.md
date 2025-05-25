@@ -24,12 +24,70 @@ This repository contains a first-person shooter (FPS) game developed in Unreal E
 
 ---
 
+## FPS Game in Unreal Engine 5
+
+Built a modular and immersive **first-person shooter (FPS)** in Unreal Engine 5, focused on realistic physics, clean Blueprint architecture, and responsive user experience. The project features a custom weapon system, destructible environments, and an interactive UI/UX layer, all optimized for gameplay clarity and maintainability.
+
+---
+
+### Core Gameplay Systems
+
+- **Custom Weapon System:**  
+  Engineered a sniper rifle (`BP_Rifle`) with an ArrowComponent for precise projectile trajectory control.
+
+- **Projectile Mechanics:**  
+  Created `BP_Bullet` with adjusted mesh, velocity, and tracer glow using emissive materials for visual feedback.
+
+- **Combat Feedback:**  
+  Added recoil via asset montages, muzzle smoke, and impact sparks to heighten immersion.
+
+---
+
+### Environmental Interactions
+
+- **Destructible Targets:**  
+  Used Geometry Collection and Chaos Physics to build targets that fracture on valid projectile hits.
+
+- **Impact Logic:**  
+  Applied collision boxes and conditions to ensure accurate, physics-driven destruction.
+
+---
+
+### UI and Game Flow
+
+- **UI Design:**  
+  Built `WBP_UI` and `WBP_EndScreen` for score tracking, game states, and restarts with visual clarity (including background blur).
+
+- **Crosshair Integration:**  
+  Added a custom crosshair through `BP_FirstPersonHUD` to enhance aiming precision.
+
+- **Modular GameMode:**  
+  Structured logic into reusable functions like `ShowEndScreen` for scalable game flow.
+
+- **Game Loop Control:**  
+  Managed game-over states using timers and restart logic tied to UI buttons.
+
+---
+
+### Testing and Debugging
+
+- **UX Optimization:**  
+  Resolved issues like overlapping game states and missing HUD elements through targeted debugging and user playtesting.
+
+---
+
+### Tools & Technologies
+
+Unreal Engine 5 · Blueprint Scripting · Chaos Physics · Geometry Collection · UMG · Material & Particle Systems
+
+---
+
 ## Project Details
 
 - **Gameplay Video:**  
   To watch a demonstration of the game, download the raw video file (`Gameplay video 1.mp4`) directly from the repository's file list.  
-  *A clickable link will be added here once available.*
-  [Download and watch the gameplay video](Gameplay video 1.mp4)
+ 
+##  [Watch the gameplay video by downloading the raw video file "Gameplay video 1.mp4" by clicking on it, then download/view raw ]
 
 
 - **UX and Design Documentation:**  
