@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/QQ/RXTGS6ZWISFOK9V3QUJB0G.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/UN/C4E9OWGEFT1V0610TJIV20.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/4Y/0K67J7B9WYAIH8IOPHUOZH.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/9W/VDWM43BVG0XAZDUQIATGTE.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/Target/SM_Target_SM_Target/SM_Target5_GeometryCollection.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/FirstPerson/Blueprints/FirstPersonHUD.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/PL/EGGWTV6DVHYA2IQVXZ7OJ4.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/NV/CZH9HGL0HYD5UZ4NON6SSQ.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/2T/ZK9S6ES662Y0L6XF3DASG2.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/04/VH6DMYQJJDC8IG1U16D0VN.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/WW/IBAOIE98N5UZ5CJ01LHK24.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/99/MMLDNCIP2UK29OX8DITURP.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/LevelPrototyping/ListView/W_MainUI.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/Assignment 3/Assignment 3 5.4 - 2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/PL/EGGWTV6DVHYA2IQVXZ7OJ4.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/Assignment 3/Assignment 3 5.4 - 2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/NV/CZH9HGL0HYD5UZ4NON6SSQ.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/Assignment 3/Assignment 3 5.4 - 2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/04/VH6DMYQJJDC8IG1U16D0VN.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/Assignment 3/Assignment 3 5.4 - 2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/WW/IBAOIE98N5UZ5CJ01LHK24.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/Assignment 3/Assignment 3 5.4 - 2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/99/MMLDNCIP2UK29OX8DITURP.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/TK/Q7301YSLW4AWLNKJRXC83F.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7N/3FBCVT004XUVFAA2FMR8ZW.uasset",
+				"C:/Drive D/MUN/winter 2024/CS3300/assignment 3/Assignment 3/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/UM/XEV1PUIN04Q6ZFTEKGYGSK.uasset"
+			]
+		}
+	]
+}
